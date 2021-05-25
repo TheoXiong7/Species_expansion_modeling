@@ -8,5 +8,7 @@ I made this species expansion model using a maximum entropy model to select bioc
 George Washington Carver Science Fair - Computer Science Award 2nd Place 2021
 
 ## Display
+
 Ligustrum Sinense Predicted Expansion Area (green) and Actual Occurence during 2000-2020 (red)
+
 ![Image of ](https://github.com/TheoXiong7/Species_expansion_modeling/blob/main/lig.png?raw=true)

@@ -2,7 +2,7 @@
  ***This project is used for testing, the code is not directly runnable. Use for reference.
 
 ## About
-I made this species expansion model using a maximum entropy model to select bioclimatic variables and I used the variables and species occurence data to create a logistic regresssion model.
+This species expansion model uses a maximum entropy model to select bioclimatic variables and then uses the selected variables and species occurence data to create a logistic regresssion model.
 
 ## Award
 George Washington Carver Science Fair - Computer Science Award 2nd Place 2021

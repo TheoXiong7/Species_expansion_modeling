@@ -1,5 +1,4 @@
 # Species_expansion_modeling
- ***This project is used for testing, the code is not directly runnable. Use for reference.
 
 ## About
 This species expansion model uses a maximum entropy model to select bioclimatic variables and then uses the selected variables and species occurence data to create a logistic regresssion model.
